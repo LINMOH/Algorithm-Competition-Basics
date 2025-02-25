@@ -69,4 +69,4 @@ linmohan.fun
 
 ## 版权声明
 
-代码遵循 [MIT License]，书籍版权归原著作人所有，本仓库仅作学习交流用途。
+代码遵循**[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 许可证开源，书籍版权归原著作人所有，本仓库仅作学习交流用途。
